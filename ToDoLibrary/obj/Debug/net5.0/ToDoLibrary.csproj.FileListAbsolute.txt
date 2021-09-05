@@ -1,0 +1,12 @@
+/Users/mike/Projects/ToDoAPIApp/ToDoLibrary/bin/Debug/net5.0/ToDoLibrary.deps.json
+/Users/mike/Projects/ToDoAPIApp/ToDoLibrary/bin/Debug/net5.0/ToDoLibrary.dll
+/Users/mike/Projects/ToDoAPIApp/ToDoLibrary/bin/Debug/net5.0/ref/ToDoLibrary.dll
+/Users/mike/Projects/ToDoAPIApp/ToDoLibrary/bin/Debug/net5.0/ToDoLibrary.pdb
+/Users/mike/Projects/ToDoAPIApp/ToDoLibrary/obj/Debug/net5.0/ToDoLibrary.csprojAssemblyReference.cache
+/Users/mike/Projects/ToDoAPIApp/ToDoLibrary/obj/Debug/net5.0/ToDoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Projects/ToDoAPIApp/ToDoLibrary/obj/Debug/net5.0/ToDoLibrary.AssemblyInfoInputs.cache
+/Users/mike/Projects/ToDoAPIApp/ToDoLibrary/obj/Debug/net5.0/ToDoLibrary.AssemblyInfo.cs
+/Users/mike/Projects/ToDoAPIApp/ToDoLibrary/obj/Debug/net5.0/ToDoLibrary.csproj.CoreCompileInputs.cache
+/Users/mike/Projects/ToDoAPIApp/ToDoLibrary/obj/Debug/net5.0/ToDoLibrary.dll
+/Users/mike/Projects/ToDoAPIApp/ToDoLibrary/obj/Debug/net5.0/ref/ToDoLibrary.dll
+/Users/mike/Projects/ToDoAPIApp/ToDoLibrary/obj/Debug/net5.0/ToDoLibrary.pdb
